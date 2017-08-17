@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<testsuite errors="0" failures="0" name="DefaultSuite" skips="0" tests="10" time="17.495" timestamp="2017-08-17 18:33:57.524108">
+		<testcase classname="test.PTestClass" name="test1#1" time="1.301"/>
+		<testcase classname="test.PTestClass" name="test1#2" time="2.084"/>
+		<testcase classname="test.PTestClass" name="test1#3" time="0.476"/>
+		<testcase classname="test.PTestClass" name="test1#4" time="0.595"/>
+		<testcase classname="test.PTestClass" name="test1#5" time="1.619"/>
+		<testcase classname="test.PTestClass" name="test2#1" time="1.355"/>
+		<testcase classname="test.PTestClass" name="test2#2" time="2.098"/>
+		<testcase classname="test.PTestClass" name="test2#3" time="0.552"/>
+		<testcase classname="test.PTestClass" name="test2#4" time="0.595"/>
+		<testcase classname="test.PTestClass" name="test2#5" time="1.764"/>
+	</testsuite>
